@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Fume5678
+- I study mainly С++ and Rust
 
 ### Welcome to the club Body! 
 
