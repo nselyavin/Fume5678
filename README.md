@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fume5678
+- 👋 Hi, I’m Nikita Selyavin
 - I study mainly С++ and Rust
 
 ### Welcome to the club Body! 
