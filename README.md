@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikita Selyavin
 - I study mainly С++ and Rust
 
-### Welcome to the club Body! 
+### Welcome to the club Buddy! 
 
 <!---
 Fume5678/Fume5678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
